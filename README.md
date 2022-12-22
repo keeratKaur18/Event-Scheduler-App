@@ -1,6 +1,6 @@
 # event_calendar_week2
 
-A new Flutter project.
+Week 2 Flutter project.
 
 ## Getting Started
 
